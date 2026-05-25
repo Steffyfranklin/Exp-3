@@ -24,32 +24,37 @@ The actors in this are Employee , Admin , Passenger , Locomotive .
 
 ## USECASE DIAGRAM
 
-<img width="1110" height="952" alt="image" src="https://github.com/user-attachments/assets/e64f9fac-41aa-4048-847c-8faaa09afe09" />
+<img width="1148" height="1152" alt="image" src="https://github.com/user-attachments/assets/3ec88757-e275-4bed-b25b-a08c5cbf335c" />
+
 
 
 ## ACTIVITY DIAGRAM
 
-<img width="490" height="934" alt="image" src="https://github.com/user-attachments/assets/482b166e-393a-4bfc-a1cc-ec4001462ef6" />
+<img width="571" height="1683" alt="image" src="https://github.com/user-attachments/assets/6aab3b8f-f2d5-4392-a545-40bc1f5c9127" />
 
 
 ## CLASS DIAGRAM
 
-<img width="916" height="835" alt="image" src="https://github.com/user-attachments/assets/6b6188a7-4699-46e6-b75f-25b721820a06" />
+<img width="1201" height="883" alt="image" src="https://github.com/user-attachments/assets/27bd05da-f783-4ef4-a632-092f7ade1cbd" />
+
 
 
 ## COMMUNICATION DIAGRAM
 
-<img width="936" height="785" alt="image" src="https://github.com/user-attachments/assets/e27d5633-ed6a-4f8f-90c8-abe58fac7553" />
+<img width="1236" height="1061" alt="image" src="https://github.com/user-attachments/assets/3fc69c6f-c30d-4b82-867a-fcc702fd99db" />
+
 
 
 ## PACAKGE DIAGRAM
 
-<img width="576" height="385" alt="image" src="https://github.com/user-attachments/assets/25b540f8-8c6d-4689-a9dd-0331f00b27f2" />
+<img width="981" height="1022" alt="image" src="https://github.com/user-attachments/assets/9d915561-5b7a-4256-be92-db854adfa493" />
+
 
 
 ## SEQUENCE DIAGRAM
 
-<img width="994" height="959" alt="image" src="https://github.com/user-attachments/assets/0db9a9a5-fb31-499f-ba29-d953bc6756c1" />
+<img width="1246" height="1081" alt="image" src="https://github.com/user-attachments/assets/98a8dc8f-6dbf-4106-9918-6386e7cd69ce" />
+
 
 
 # RESULT:
